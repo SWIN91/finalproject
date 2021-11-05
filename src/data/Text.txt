@@ -1,0 +1,45 @@
+
+
+Fonts
+
+----------------------------------------------
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600&family=Pacifico&family=Source+Sans+Pro:wght@400;600;700&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+----------------------------------------------
+
+SKILLS
+APIs, Bootstrap, CSS, ElephantSQL, Firebase, Flask, GSAP, HTML, Javascript, Matplotlib, Pandas, Python, Python Numpy, React, Stripe
+
+----------------------------------------------
+
+TOOLS
+Anaconda-Navigator, Github, Jupyter Notebook, Node.js, pgAdmin4, VScode
+
+----------------------------------------------
+
+About Text
+
+----------------------------------------------
+I'm a software engineer located in the U.S. I enjoy utilizing my creative and analytical skills to optimize software applications. 
+
+I modify existing software applications in addition to creating new ones to optimize user experiences. I believe quality need not be sacrificed to convenience. 
+
+I enjoy designing software applications that are clean, attractive, swift, convivial, and secure.
+
+Favorite Projects
+HTML, CSS, Javascript, React
+Pandas, Matplotlib
+Python Object-Oriented Programming
+----------------------------------------------
+
+<a href='https://www.freepik.com/vectors/star'>Star vector created by upklyak - www.freepik.com</a>
+
+
+
+
+
+
+
