@@ -91,7 +91,7 @@ I utilize my creative and analytical skills to design optimized software applica
 <Description>
 <strong>Skills</strong>
 <p>
-APIs, Bootstrap, CSS, ElephantSQL, Firebase, Flask, GSAP, HTML, Javascript, Matplotlib, Numpy, Pandas, Python, React, Stripe
+APIs, Bootstrap, CSS, ElephantSQL, Firebase, Flask, GSAP, HTML, JavaScript, Matplotlib, NumPy, Pandas, Python, React, Stripe
 </p>
 </Description>
 
@@ -110,7 +110,7 @@ APIs, Bootstrap, CSS, ElephantSQL, Firebase, Flask, GSAP, HTML, Javascript, Matp
     ElephantSQL
     </li>
     <li>
-    Github
+    GitHub
     </li>
     <li>
     Jupyter Notebook
@@ -119,7 +119,7 @@ APIs, Bootstrap, CSS, ElephantSQL, Firebase, Flask, GSAP, HTML, Javascript, Matp
     pgAdmin4
     </li>
     <li>
-    VScode
+    VS Code
     </li>
 </ul>
 </Description>
